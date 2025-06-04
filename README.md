@@ -29,7 +29,7 @@
        ### Uso do CRISP-DM      
        ### Tarefas que teremos para fazer
        ### Atribuição das tarefas
-       ### Formas de acompanhamento - Uso do trello
+       ### Formas de acompanhamento - Quadro do projeto no proprio github
 
  ## Diversos
  
